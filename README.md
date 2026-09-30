@@ -1,5 +1,5 @@
-[README_updated.md](https://github.com/user-attachments/files/32871546/README_updated.md)
-# 🚀Data Consolidation Pipeline
+[README_SportsBar.md](https://github.com/user-attachments/files/32873286/README_SportsBar.md)
+# 🚀 FMCG Data Consolidation Pipeline
 
 > **End-to-end Data Engineering project built with Databricks, PySpark, Delta Lake and AWS S3**
 
@@ -66,8 +66,8 @@ flowchart LR
 ```
 
 
-
 ![SportsBar Architecture](docs/architecture.png)
+
 
 ### Medallion flow
 
