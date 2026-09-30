@@ -65,6 +65,10 @@ flowchart LR
     G --> I[Genie / AI Analytics]
 ```
 
+
+
+![SportsBar Architecture](docs/architecture.png)
+
 ### Medallion flow
 
 | Layer | Purpose |
